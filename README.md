@@ -1,4 +1,4 @@
-**Last update:** 2019-01-07
+**Last update:** 2019-02-27
 <br /><hr /><br />
 
 ![hackerone](images/bb-platform-hackerone.png)
@@ -110,7 +110,7 @@ Visibility: **public, confidential, private, vetted**
 Public disclosure: **no**  
 Reputation: **based on reports criticity**  
 Additional metrics: **quality score**  
-Payout methods: **bank transfer**  
+Payout methods: **Bank transfer, Paypal, Payoneer**  
 <br /><br />
 
 ![Zerocopter](images/bb-platform-zerocopter.png)
